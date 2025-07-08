@@ -1,9 +1,1 @@
 # StarTeleportname: StarTeleport
-version: 1.0
-main: com.example.plugin.StarTeleport
-api-version: 1.20
-commands:
-  setstarpoint:
-    description: 스타 포인트 설정
-    usage: /setstarpoint
-    permission: starteleport.set
